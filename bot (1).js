@@ -1,7 +1,7 @@
 ﻿const Discord = require('discord.js');
 const client = new Discord.Client();
 var prefix = "1say #credits @.AmarShmr , ?#3366 1000";
-
+var id = "505811134528356352";
 client.on('ready', () => {
   console.log(`Logged in as ${client.user.tag}!`);  
 });
